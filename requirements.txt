@@ -1,0 +1,8 @@
+sqlalchemy
+geoalchemy2
+alembic
+psycopg2
+configparser
+schedule
+pandas
+gtfs-realtime-bindings
