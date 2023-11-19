@@ -17,3 +17,755 @@ INFO: Checking at 2023-11-13 10:41:22.227515
 INFO: GTFS Schedule feed unchanged: "d58c569b3613da1:0"
 INFO: Checking at 2023-11-13 10:41:32.860447
 INFO: GTFS Schedule feed unchanged: "d58c569b3613da1:0"
+INFO: New GTFS Schedule updating session
+2023-11-18 17:41:37.343021
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: Checking at 2023-11-18 17:41:47.377134
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: New GTFS Schedule updating session
+2023-11-18 18:08:03.645194
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: Checking at 2023-11-18 18:08:13.688908
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: New GTFS Schedule updating session
+2023-11-18 18:11:41.196203
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: Checking at 2023-11-18 18:11:51.239281
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-18 18:17:00.445570
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: Checking at 2023-11-18 18:17:10.526763
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-18 18:17:20.946058
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-18 18:17:31.293524
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-18 18:17:41.630138
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-18 18:17:51.994277
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-18 18:18:02.330599
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-18 18:19:48.696096
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-18 18:19:58.755799
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-18 18:30:07.612291
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-18 18:30:17.683869
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table feed_info loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 15:31:04.774527
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 15:31:14.865921
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 15:35:55.024834
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: Checking at 2023-11-19 15:36:05.106611
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:36:15.545018
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:36:25.890026
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:36:36.238825
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:36:46.573521
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:36:57.083190
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:37:07.570860
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:37:18.228803
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:37:28.557488
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 15:37:38.989046
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 15:38:23.853233
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 15:38:33.916003
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table calendar loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 15:39:28.576801
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: Checking at 2023-11-19 15:39:38.644694
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 15:40:03.669515
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 15:40:13.734306
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table calendar loaded
+INFO: Table feed_info loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 15:49:09.804279
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 15:49:19.861755
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table calendar loaded
+INFO: Table feed_info loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 15:50:08.966693
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 15:50:19.039676
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table calendar loaded
+INFO: Table feed_info loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 15:53:18.427382
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 15:53:28.484119
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table calendar loaded
+INFO: Table feed_info loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 15:58:47.713948
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 15:58:57.775044
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 16:00:03.908600
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 16:00:13.978477
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 16:02:40.079818
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 16:02:50.143610
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table calendar loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 16:05:06.330851
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 16:05:16.403007
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table calendar loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 16:08:33.100057
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 16:08:43.207027
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table calendar loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 16:23:11.622341
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: New GTFS Schedule updating session
+2023-11-19 16:23:38.779649
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 16:23:48.830655
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table calendar loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 16:24:57.272305
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:25:07.614500
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:25:18.023603
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:25:28.354201
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:25:38.708956
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:25:49.058740
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:25:59.402668
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:26:09.761105
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 16:46:41.110980
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 16:46:51.177312
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 16:48:06.417415
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:48:16.795193
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:48:27.154489
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:48:37.502132
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 16:48:47.858525
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 17:54:27.945341
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: New GTFS Schedule updating session
+2023-11-19 17:54:54.321686
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 17:55:04.396631
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 17:58:52.493849
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 17:59:02.570749
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 18:00:25.856630
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:00:36.281468
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:00:46.636331
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:00:57.000669
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:01:07.367049
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:01:17.729134
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:01:28.093640
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:01:38.453168
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:01:48.816661
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:01:59.240940
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:02:09.612066
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:02:19.960936
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:02:30.294319
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:02:40.635110
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:02:50.980324
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:03:01.320453
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:03:11.671990
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:03:22.088017
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:03:32.430663
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:03:42.790664
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:03:53.138938
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:04:03.543992
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:04:13.902418
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:04:24.219971
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:04:34.557242
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:04:44.965894
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:04:55.301959
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:05:05.633562
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:05:15.978204
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:05:26.313242
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:05:36.644052
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:05:46.984263
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:05:57.327479
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:06:07.743464
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:06:18.079609
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:06:28.419346
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:06:38.756537
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:06:49.102416
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:06:59.436001
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:07:09.779045
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:07:20.119631
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:07:30.535865
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:07:40.866702
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:07:51.218491
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:08:01.562541
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:08:11.902132
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:08:22.232135
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:08:32.570646
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:08:42.910547
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:08:53.301888
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:09:03.633630
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:09:13.963185
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:09:24.298713
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:09:34.669847
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:09:45.041099
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:09:55.421895
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:10:05.792901
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:10:16.240744
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:10:26.611905
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:10:36.990726
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:10:47.340664
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:10:57.702841
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:11:08.073947
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:11:18.462046
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:11:28.834148
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:11:39.305118
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:11:49.692948
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:12:00.071839
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:12:10.445579
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:12:20.823790
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:12:31.205921
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:12:41.568834
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:12:51.923702
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:13:02.338939
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:13:12.714941
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:13:23.076833
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:13:33.440261
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:13:43.824208
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:13:54.183051
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:14:04.561060
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:14:14.931980
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:14:25.390149
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:14:35.923446
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:14:46.293544
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:14:56.656740
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:15:07.017107
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:15:17.373027
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:15:27.751955
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:15:38.186215
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:15:48.662551
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:15:59.020281
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:16:09.375181
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:16:19.734483
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:16:30.094456
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:16:40.422459
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:16:50.758662
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:17:01.104048
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:17:11.526783
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 18:29:51.432266
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 18:30:01.508898
+INFO: New GTFS Schedule feed detected: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 18:31:26.742325
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:31:37.176360
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:31:47.535810
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: Checking at 2023-11-19 18:31:57.880196
+INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+2023-11-19 18:51:38.199052
+Data source: https://svc.metrotransit.org/mtgtfs/gtfs.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 18:51:48.275663
+INFO: New GTFS Schedule feed detected: "71c54498719da1:0"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 18:55:17.869571
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:55:28.536982
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:55:39.167605
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:55:49.809013
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:56:00.474748
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:56:11.141972
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:56:21.782118
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:56:32.443572
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:56:43.120641
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:56:53.757418
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:57:04.418928
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:57:15.061847
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:57:25.708718
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:57:36.386154
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:57:47.047005
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:57:57.706665
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:58:08.369625
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:58:19.023373
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:58:29.672644
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:58:40.342704
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: Checking at 2023-11-19 18:58:50.989435
+INFO: GTFS Schedule feed is unchanged and has not been imported: "71c54498719da1:0"
+INFO: New GTFS Schedule updating session
+2023-11-19 18:58:54.909445
+Data source: https://transportessangabriel.com/static/gtfs/TSG_GTFS.zip
+INFO: Checking at 2023-11-19 18:59:04.968333
+INFO: New GTFS Schedule feed detected: "618ab460-3d977"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 18:59:17.947487
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 18:59:28.559574
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 18:59:39.175322
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 18:59:49.793853
+INFO: New GTFS Schedule updating session
+2023-11-19 20:23:55.330753
+Data source: https://transportessangabriel.com/static/gtfs/TSG_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 20:24:05.397627
+INFO: New GTFS Schedule feed detected: "618ab460-3d977"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 20:24:18.788484
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:24:29.411547
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:24:40.018235
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:24:50.619044
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:25:01.241484
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:25:11.870904
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:25:22.504571
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:25:33.115386
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: New GTFS Schedule updating session
+2023-11-19 20:34:03.526729
+Data source: https://transportessangabriel.com/static/gtfs/TSG_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 20:34:13.588985
+INFO: New GTFS Schedule feed detected: "618ab460-3d977"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: New GTFS Schedule updating session
+2023-11-19 20:39:00.775851
+Data source: https://transportessangabriel.com/static/gtfs/TSG_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-19 20:39:10.846065
+INFO: New GTFS Schedule feed detected: "618ab460-3d977"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-19 20:39:23.685709
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:39:34.286809
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:39:44.933107
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:39:55.554710
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:40:06.181627
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:40:16.780741
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:40:27.398354
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:40:38.004991
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:40:48.627776
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:40:59.222344
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:41:09.835109
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:41:20.458072
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:41:31.074049
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:41:41.690980
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:41:52.314878
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:42:02.931454
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:42:13.536534
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:42:24.150007
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:42:34.761571
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:42:45.380983
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:42:56.014719
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:43:06.634967
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:43:17.235131
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:43:27.863978
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:43:38.487113
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:43:49.109686
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:43:59.738899
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:44:10.345934
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:44:20.962108
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:44:31.589297
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:44:42.174706
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:44:52.780780
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:45:03.407092
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:45:14.020107
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:45:24.637548
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:45:35.226713
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:45:45.825333
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:45:56.452059
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:46:07.074438
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:46:17.693114
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:46:28.304676
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:46:38.922710
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:46:49.539300
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:47:00.166312
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:47:10.777391
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:47:21.374712
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:47:31.961340
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:47:42.574664
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:47:53.189304
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:48:03.788119
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:48:14.407648
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:48:25.003156
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:48:35.600026
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:48:46.472894
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:48:57.078057
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:49:07.686941
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"
+INFO: Checking at 2023-11-19 20:49:18.300589
+INFO: GTFS Schedule feed is unchanged and has not been imported: "618ab460-3d977"

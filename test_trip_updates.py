@@ -61,7 +61,7 @@ def fetch():
     entityType = "tripUpdate"
 
     if not last_timestamp["value"] == timestamp:
-        # Save FeedMessage
+        # Build and save FeedMessage
         feed_message_df = pd.DataFrame(
             {
                 "timestamp": [timestamp],
@@ -72,7 +72,7 @@ def fetch():
         )
         feed_message_df.to_sql("feed_messages", engine, if_exists="append", index=False)
 
-        # Build FeedEntity
+        # Build FeedEntity (TripUpdate)
         trip_updates_df = pd.json_normalize(
             json_format.MessageToDict(trip_updates)["entity"], sep="_"
         )
@@ -83,11 +83,17 @@ def fetch():
             lambda row: datetime.datetime.fromtimestamp(int(row.tripUpdate_timestamp)) if pd.notnull(row.tripUpdate_timestamp) else None,
             axis=1,
         )
-        # Get StopTimeUpdate
+
+        # Grab and pop StopTimeUpdate
         stop_time_builder = trip_updates_df[["feedMessage_timestamp", "feedMessage_entityType", "entityId", "tripUpdate_stopTimeUpdate"]].copy()
         trip_updates_df.pop("tripUpdate_stopTimeUpdate")
+
+        # Save FeedEntity (TripUpdate)
+        trip_updates_df.to_sql("trip_updates", engine, if_exists="append", index=False)
+        print("All trip updates have been saved!")
+        logging.info(f"Record {timestamp} made at {str(datetime.datetime.now())}")
         
-        # Save StopTimeUpdate
+        # Build StopTimeUpdate
         for index, row in stop_time_builder.iterrows():
             try:
                 stop_time_updates_df = pd.json_normalize(
@@ -113,10 +119,6 @@ def fetch():
             stop_time_updates_df.to_sql("stop_time_updates", engine, if_exists="append", index=False)
         print("All stop time updates have been saved!")
 
-        # Save TripUpdate
-        trip_updates_df.to_sql("trip_updates", engine, if_exists="append", index=False)
-        print("All trip updates have been saved!")
-        logging.info(f"Record {timestamp} made at {str(datetime.datetime.now())}")
     else:
         logging.error(
             f"Duplicated FeedMessage with timestamp {timestamp} at {str(datetime.datetime.now())}"

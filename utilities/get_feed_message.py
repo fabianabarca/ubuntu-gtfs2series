@@ -7,6 +7,8 @@ from google.transit import gtfs_realtime_pb2 as gtfs_rt
 from google.protobuf import json_format
 
 realtime_feed_url = "https://cdn.mbta.com/realtime/TripUpdates.pb"
+entity_type = "trip_update"
+agency = "mbta"
 
 # Create a FeedMessage object from the GTFS Realtime FeedMessage
 feed_message = gtfs_rt.FeedMessage()
@@ -24,5 +26,5 @@ feed_message_dict = json_format.MessageToDict(feed_message)
 timestamp = feed_message_dict["header"]["timestamp"]
 
 # Save the FeedMessage as a JSON file
-with open(f"feed_message_{timestamp}.json", "w") as f:
+with open(f"examples/{agency}_{entity_type}_{timestamp}.json", "w") as f:
     f.write(json_format.MessageToJson(feed_message))

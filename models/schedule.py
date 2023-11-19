@@ -1,6 +1,6 @@
 from sqlalchemy.orm import declarative_base, relationship
 from sqlalchemy import Column, PrimaryKeyConstraint, ForeignKeyConstraint
-from sqlalchemy.types import Integer, Float, Date, Time, String, Text
+from sqlalchemy.types import Integer, Float, Date, Time, DateTime, Interval, String, Text
 from geoalchemy2 import Geometry
 from geoalchemy2.elements import WKTElement
 
@@ -14,16 +14,22 @@ class Feed(Base):
     """
 
     __tablename__ = "feeds"
-    feed_id = Column(String(63), primary_key=True)
-    feed_tag = Column(String(63))
+    feed_id = Column(String(127), primary_key=True)
+    feed_tag = Column(String(127))
+    feed_last_modified = Column(DateTime)
+    feed_transit_system = Column(String(127))
 
-    agencies = relationship("Agency", backref="feed")
+    agency = relationship("Agency", backref="feed")
     stops = relationship("Stop", backref="feed")
     routes = relationship("Route", backref="feed")
     trips = relationship("Trip", backref="feed")
     stop_times = relationship("StopTime", backref="feed")
     calendar = relationship("Calendar", backref="feed")
+    shapes = relationship("Shape", backref="feed")
     geoshapes = relationship("GeoShape", backref="feed")
+    frequencies = relationship("Frequency", backref="feed")
+    feed_info = relationship("FeedInfo", backref="feed")
+    calendar_dates = relationship("CalendarDate", backref="feed")
 
 
 class Agency(Base):
@@ -34,10 +40,10 @@ class Agency(Base):
     Reference: https://gtfs.org/schedule/reference/#agencytxt
     """
 
-    __tablename__ = "agencies"
+    __tablename__ = "agency"
 
-    feed_id = Column(String(63), primary_key=True)
-    agency_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    agency_id = Column(String(127), primary_key=True)
 
     routes = relationship("Route", backref="agency")
 
@@ -67,8 +73,8 @@ class Stop(Base):
 
     __tablename__ = "stops"
 
-    feed_id = Column(String(63), primary_key=True)
-    stop_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    stop_id = Column(String(127), primary_key=True)
 
     stop_code = Column(String(127))
     stop_name = Column(String(255))
@@ -108,13 +114,13 @@ class Route(Base):
 
     __tablename__ = "routes"
 
-    feed_id = Column(String(63), primary_key=True)
-    route_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    route_id = Column(String(127), primary_key=True)
 
     trips = relationship("Trip", backref="route")
 
-    agency_id = Column(String(63))
-    route_short_name = Column(String(63))
+    agency_id = Column(String(127))
+    route_short_name = Column(String(127))
     route_long_name = Column(String(255))
     route_desc = Column(Text)
     route_type = Column(Integer)
@@ -124,7 +130,7 @@ class Route(Base):
     route_sort_order = Column(Integer)
     continuous_pickup = Column(Integer)
     continuous_drop_off = Column(Integer)
-    network_id = Column(String(63))
+    network_id = Column(String(127))
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -133,7 +139,7 @@ class Route(Base):
         ),
         ForeignKeyConstraint(
             ["feed_id", "agency_id"],
-            ["agencies.feed_id", "agencies.agency_id"],
+            ["agency.feed_id", "agency.agency_id"],
         ),
     )
 
@@ -148,17 +154,17 @@ class Trip(Base):
 
     __tablename__ = "trips"
 
-    feed_id = Column(String(63), primary_key=True)
-    trip_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    trip_id = Column(String(127), primary_key=True)
 
-    route_id = Column(String(63))  # Foreign key
-    service_id = Column(String(63))  # Foreign key
-    geoshape_id = Column(String(63))  # Foreign key
+    route_id = Column(String(127))  # Foreign key
+    service_id = Column(String(127))  # Foreign key
+    geoshape_id = Column(String(127))  # Foreign key
     trip_headsign = Column(String(255))
-    trip_short_name = Column(String(63))
+    trip_short_name = Column(String(127))
     direction_id = Column(Integer)
     block_id = Column(String(127))
-    shape_id = Column(String(127))
+    shape_id = Column(String(127))  # Foreign key (not yet implemented)
     wheelchair_accessible = Column(Integer)
     bikes_allowed = Column(Integer)
 
@@ -192,13 +198,13 @@ class StopTime(Base):
 
     __tablename__ = "stop_times"
 
-    feed_id = Column(String(63), primary_key=True)
-    trip_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    trip_id = Column(String(127), primary_key=True)
     stop_sequence = Column(Integer, primary_key=True)
 
-    stop_id = Column(String(63))
-    arrival_time = Column(Time)
-    departure_time = Column(Time)
+    stop_id = Column(String(127))
+    arrival_time = Column(Interval)
+    departure_time = Column(Interval)
     stop_headsign = Column(String(255))
     pickup_type = Column(Integer)
     drop_off_type = Column(Integer)
@@ -233,8 +239,8 @@ class Calendar(Base):
 
     __tablename__ = "calendar"
 
-    feed_id = Column(String(63), primary_key=True)
-    service_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    service_id = Column(String(127), primary_key=True)
 
     monday = Column(Integer)
     tuesday = Column(Integer)
@@ -254,6 +260,60 @@ class Calendar(Base):
     )
 
 
+class CalendarDate(Base):
+    """GTFS Calendar Date model v2.0 (calendar_dates.txt).
+
+    The calendar_dates.txt table explicitly activates or disables service by date. Exceptions for the services defined in the calendar.txt file. If calendar_dates.txt includes all dates of service, this file may be specified instead of calendar.txt.
+
+    Reference: https://gtfs.org/schedule/reference/#calendar_datestxt
+    """
+
+    __tablename__ = "calendar_dates"
+
+    feed_id = Column(String(127), primary_key=True)
+    service_id = Column(String(127), primary_key=True)
+    date = Column(Date, primary_key=True)
+
+    exception_type = Column(Integer)
+
+    __table_args__ = (
+        ForeignKeyConstraint(
+            ["feed_id"],
+            ["feeds.feed_id"],
+        ),
+        ForeignKeyConstraint(
+            ["feed_id", "service_id"],
+            ["calendar.feed_id", "calendar.service_id"],
+        ),
+    )
+
+
+class Shape(Base):
+    """GTFS Shape model v2.0 (shapes.txt).
+
+    Rules for drawing lines on a map to represent a transit organization's routes.
+
+    Reference: https://gtfs.org/schedule/reference/#shapestxt
+    """
+
+    __tablename__ = "shapes"
+
+    feed_id = Column(String(127), primary_key=True)
+    shape_id = Column(String(127), primary_key=True)
+    shape_pt_sequence = Column(Integer, primary_key=True)
+
+    shape_pt_lat = Column(Float)
+    shape_pt_lon = Column(Float)
+    shape_dist_traveled = Column(Float)
+
+    __table_args__ = (
+        ForeignKeyConstraint(
+            ["feed_id"],
+            ["feeds.feed_id"],
+        ),
+    )
+
+
 class GeoShape(Base):
     """GTFS Shape model v2.0 (an implementation of shapes.txt).
 
@@ -262,8 +322,8 @@ class GeoShape(Base):
 
     __tablename__ = "geoshapes"
 
-    feed_id = Column(String(63), primary_key=True)
-    geoshape_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    geoshape_id = Column(String(127), primary_key=True)
 
     geoshape = Column(Geometry(geometry_type="LINESTRING", srid=4326))
 
@@ -285,10 +345,10 @@ class Frequency(Base):
 
     __tablename__ = "frequencies"
 
-    feed_id = Column(String(63), primary_key=True)
-    trip_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
+    trip_id = Column(String(127), primary_key=True)
     start_time = Column(Time, primary_key=True)
-    
+
     end_time = Column(Time)
     headway_secs = Column(Integer)
     exact_times = Column(Integer)
@@ -315,7 +375,7 @@ class FeedInfo(Base):
 
     __tablename__ = "feed_info"
 
-    feed_id = Column(String(63), primary_key=True)
+    feed_id = Column(String(127), primary_key=True)
     id = Column(Integer, primary_key=True, autoincrement=True)
 
     feed_publisher_name = Column(String(255))
@@ -324,7 +384,7 @@ class FeedInfo(Base):
     default_lang = Column(String(31))
     feed_start_date = Column(Date)
     feed_end_date = Column(Date)
-    feed_version = Column(String(63))
+    feed_version = Column(String(127))
     feed_contact_email = Column(String(255))
     feed_contact_url = Column(String(255))
 

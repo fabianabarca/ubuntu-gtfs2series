@@ -143,3 +143,26 @@ INFO: (TEST) New GTFS Realtime FeedMessage collection session
 Fetching data from https://cdn.mbta.com/realtime/TripUpdates.pb
 INFO: Fetching begins at 2023-11-15 16:40:58.413728
 INFO: Record 2023-11-15 16:40:56 made at 2023-11-15 16:41:05.648464
+INFO: (TEST) New GTFS Realtime FeedMessage collection session
+2023-11-18 14:07:25.100079
+Fetching data from https://cdn.mbta.com/realtime/VehiclePositions.pb
+INFO: Fetching begins at 2023-11-18 14:07:45.159861
+INFO: Record 2023-11-18 14:07:45 made at 2023-11-18 14:07:46.163651
+INFO: (TEST) New GTFS Realtime FeedMessage collection session
+2023-11-18 14:13:27.932980
+Fetching data from https://cdn.mbta.com/realtime/TripUpdates.pb
+INFO: Fetching begins at 2023-11-18 14:13:48.009682
+INFO: (TEST) New GTFS Realtime FeedMessage collection session
+2023-11-18 14:18:35.752374
+Fetching data from https://cdn.mbta.com/realtime/TripUpdates.pb
+INFO: Fetching begins at 2023-11-18 14:18:45.790268
+INFO: (TEST) New GTFS Realtime FeedMessage collection session
+2023-11-18 14:19:44.487283
+Fetching data from https://cdn.mbta.com/realtime/TripUpdates.pb
+INFO: Fetching begins at 2023-11-18 14:19:54.524555
+INFO: Record 2023-11-18 14:19:53 made at 2023-11-18 14:19:55.331969
+INFO: (TEST) New GTFS Realtime FeedMessage collection session
+2023-11-18 14:47:06.241082
+Fetching data from https://cdn.mbta.com/realtime/TripUpdates.pb
+INFO: Fetching begins at 2023-11-18 14:47:16.285224
+INFO: Record 2023-11-18 14:47:14 made at 2023-11-18 14:47:17.170705
