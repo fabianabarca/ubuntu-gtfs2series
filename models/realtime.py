@@ -3,7 +3,6 @@ from sqlalchemy import Column, ForeignKey, ForeignKeyConstraint
 from sqlalchemy.types import Integer, Float, Date, Time, DateTime, String, Text
 from geoalchemy2 import Geometry
 from geoalchemy2.elements import WKTElement
-from schedule import Feed
 
 Base = declarative_base()
 
@@ -22,7 +21,6 @@ class FeedMessage(Base):
     entityType = Column(String(63), primary_key=True)
     incrementality = Column(String(15))
     gtfsRealtimeVersion = Column(String(15))
-    transitSystem = Column(String(127), ForeignKey("feeds.transit_system"))
 
     trip_updates = relationship("TripUpdate", backref="feedMessage")
     vehicle_positions = relationship("VehiclePosition", backref="feedMessage")
@@ -128,7 +126,7 @@ class VehiclePosition(Base):
     entityId = Column(String(127), primary_key=True)
 
     # TripDescriptor (message)
-    vehicle_trip_tripId = Column(String(255))
+    vehicle_trip_tripId = Column(String(255), primary_key=True)
     vehicle_trip_routeId = Column(String(255))
     vehicle_trip_directionId = Column(Integer)
     vehicle_trip_startTime = Column(Time)

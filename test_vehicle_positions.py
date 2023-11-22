@@ -10,7 +10,7 @@ from google.transit import gtfs_realtime_pb2 as gtfs_rt
 from google.protobuf import json_format
 
 logging.basicConfig(
-    filename="test_realtime.log",
+    filename="test_vehicle_positions.log",
     format="%(levelname)s: %(message)s",
     encoding="utf-8",
     level=logging.INFO,
@@ -32,11 +32,12 @@ password = config.get("database", "password")
 engine = create_engine(f"{system}://{user}:{password}@{host}:{port}/{name}")
 
 # GTFS configuration
+transit_system = config.get("gtfs", "transit_system")
 vehicle_positions = gtfs_rt.FeedMessage()
 vehicle_positions_url = config.get("gtfs", "vehicle_positions_url")
 
 logging.info(
-    f"(TEST) New GTFS Realtime FeedMessage collection session\n{datetime.datetime.now()}\nFetching data from {vehicle_positions_url}"
+    f"(TEST) New GTFS Realtime FeedMessage collection session\n{transit_system}\n{datetime.datetime.now()}\nFetching data from {vehicle_positions_url}"
 )
 
 # Scheduler information
@@ -87,7 +88,7 @@ def fetch():
             axis=1,
         )
         vehicle_positions_df["vehicle_timestamp"] = vehicle_positions_df.apply(
-            lambda row: datetime.datetime.fromtimestamp(int(row.vehicle_timestamp)),
+            lambda row: datetime.datetime.fromtimestamp(int(row.vehicle_timestamp)) if pd.notnull(row.vehicle_timestamp) else None,
             axis=1,
         )
 
@@ -96,10 +97,13 @@ def fetch():
             del vehicle_positions_df["vehicle_multiCarriageDetails"]
         except:
             pass
-        vehicle_positions_df.to_sql(
-                "vehicle_positions", engine, if_exists="append", index=False
-            )
-        logging.info(f"Record {timestamp} made at {str(datetime.datetime.now())}")
+        try:
+            vehicle_positions_df.to_sql(
+                    "vehicle_positions", engine, if_exists="append", index=False
+                )
+            logging.info(f"Record {timestamp} made at {str(datetime.datetime.now())}")
+        except:
+            logging.error(f"Record {timestamp} failed at {str(datetime.datetime.now())}")
     else:
         logging.error(
             f"Duplicated FeedMessage with timestamp {timestamp} at {str(datetime.datetime.now())}"

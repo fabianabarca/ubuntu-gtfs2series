@@ -1,0 +1,6533 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "2.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": "1700440465"
+  },
+  "entity": [
+    {
+      "id": "1700440465_4082",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215732-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.10028,
+          "longitude": -93.2639,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "4082",
+          "label": "1553"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4047",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215733-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4047"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4061",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215753-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97904,
+          "longitude": -93.27046,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "4061",
+          "label": "1532"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2534",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215755-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.96999,
+          "longitude": -93.27786,
+          "speed": 2.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2534",
+          "label": "1651"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4059",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215768-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.04983,
+          "longitude": -93.24732
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "4059",
+          "label": "1530"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4047",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215772-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.00804,
+          "longitude": -93.24737,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4047",
+          "label": "1518"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4061",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215776-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4061"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3903",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215779-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3903"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2542",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215782-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.99177,
+          "longitude": -93.25098,
+          "bearing": 45.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2542",
+          "label": "1659"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3903",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215811-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.07415,
+          "longitude": -93.26337,
+          "speed": 15.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "3903",
+          "label": "1331"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4054",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215812-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9724,
+          "longitude": -93.27413,
+          "bearing": 315.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "4054",
+          "label": "1525"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4064",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217857-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "11",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97647,
+          "longitude": -93.27217,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "4064",
+          "label": "1535"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3914",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217858-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "11",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.93644,
+          "longitude": -93.27017,
+          "speed": 8.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "3914",
+          "label": "1342"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4007",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217859-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "11",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4007"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4007",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217891-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "11",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96994,
+          "longitude": -93.27787,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "4007",
+          "label": "7327"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2608",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217892-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "11",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.03578,
+          "longitude": -93.26295,
+          "bearing": 180.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2608",
+          "label": "1729"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4126",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217893-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "11",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.04244,
+          "longitude": -93.24696
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "4126",
+          "label": "1600"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4000",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217894-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "11",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95034,
+          "longitude": -93.29824
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "4000",
+          "label": "7320"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3841",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217904-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3841"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2593",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217927-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97301,
+          "longitude": -93.26233,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2593",
+          "label": "1714"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4041",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217928-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4041"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2591",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217939-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.02973,
+          "longitude": -93.33945,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2591",
+          "label": "1712"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2520",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217940-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9477,
+          "longitude": -93.25246,
+          "speed": 8.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2520",
+          "label": "1637"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2586",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217941-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2586"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4041",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217951-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.92137,
+          "longitude": -93.2524,
+          "bearing": 180.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4041",
+          "label": "1512"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2612",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217955-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.99913,
+          "longitude": -93.28544,
+          "bearing": 90.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2612",
+          "label": "1733"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2586",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217971-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96756,
+          "longitude": -93.25815,
+          "bearing": 180.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2586",
+          "label": "1707"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3841",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217985-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.92071,
+          "longitude": -93.25243,
+          "bearing": 180.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "3841",
+          "label": "1271"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3945",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217986-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.00048,
+          "longitude": -93.35211,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "3945",
+          "label": "1426"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2591",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217994-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.02973,
+          "longitude": -93.33945,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2591",
+          "label": "1712"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4012",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237797-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.93416,
+          "longitude": -93.38628,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "4012",
+          "label": "7332"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2073",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237806-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97889,
+          "longitude": -93.27067,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2073",
+          "label": "1795"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4011",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237809-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4011"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4009",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237814-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97633,
+          "longitude": -93.27263,
+          "bearing": 45.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "4009",
+          "label": "7329"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4009",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237815-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4009"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4012",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237822-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.93416,
+          "longitude": -93.38628,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "4012",
+          "label": "7332"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4103",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237833-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.01533,
+          "longitude": -93.24743,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "4103",
+          "label": "1574"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3720",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237842-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94843,
+          "longitude": -93.33579,
+          "bearing": 90.0,
+          "speed": 13.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "3720",
+          "label": "7227"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2617",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237845-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94602,
+          "longitude": -93.27898,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2617",
+          "label": "7343"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4011",
+      "vehicle": {
+        "trip": {
+          "tripId": "24237850-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "17",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94846,
+          "longitude": -93.32106,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "4011",
+          "label": "7331"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2530",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218066-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2530"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2531",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218089-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.88325,
+          "longitude": -93.27816
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2531",
+          "label": "1648"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3890",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218091-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.81289,
+          "longitude": -93.2918,
+          "bearing": 180.0,
+          "speed": 13.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3890",
+          "label": "1318"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3933",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218092-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3933"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4073",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218109-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97388,
+          "longitude": -93.2748,
+          "speed": 2.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "4073",
+          "label": "1544"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4057",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218127-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94189,
+          "longitude": -93.2779,
+          "speed": 8.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "4057",
+          "label": "1528"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2530",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218135-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.92335,
+          "longitude": -93.27801,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2530",
+          "label": "1647"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3941",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218136-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97852,
+          "longitude": -93.2625,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "3941",
+          "label": "1422"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3933",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218168-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.82637,
+          "longitude": -93.28268,
+          "bearing": 270.0,
+          "speed": 15.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "3933",
+          "label": "1414"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3852",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218169-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94854,
+          "longitude": -93.27971,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "3852",
+          "label": "1282"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4004",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218179-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97595,
+          "longitude": -93.27288,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "4004",
+          "label": "7324"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4073",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218199-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4073"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4057",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218202-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "18",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4057"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2594",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258562-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "2",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97598,
+          "longitude": -93.22762
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2594",
+          "label": "1715"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3999",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258563-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "2",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.96262,
+          "longitude": -93.27267,
+          "bearing": 90.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "3999",
+          "label": "7319"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4102",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258586-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "2",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96277,
+          "longitude": -93.25523,
+          "bearing": 270.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440436",
+        "vehicle": {
+          "id": "4102",
+          "label": "1573"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3909",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258588-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "2",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96877,
+          "longitude": -93.22253,
+          "bearing": 315.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "3909",
+          "label": "1337"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4102",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258613-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "2",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4102"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2285",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258614-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "2",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.98255,
+          "longitude": -93.24083,
+          "bearing": 315.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2285",
+          "label": "1812"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2285",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258616-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "2",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2285"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4085",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217563-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94632,
+          "longitude": -93.10262,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "4085",
+          "label": "1556"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2280",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217564-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94919,
+          "longitude": -93.23364,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2280",
+          "label": "1807"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4149",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217566-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4149"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2694",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217601-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94842,
+          "longitude": -93.27888,
+          "bearing": 270.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2694",
+          "label": "1783"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2696",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217604-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94833,
+          "longitude": -93.2507,
+          "bearing": 90.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2696",
+          "label": "1785"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4000",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217609-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95034,
+          "longitude": -93.29824
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "4000",
+          "label": "7320"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2616",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217610-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2616"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2632",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217631-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94846,
+          "longitude": -93.17502,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2632",
+          "label": "3414"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2697",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217640-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94845,
+          "longitude": -93.26045,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2697",
+          "label": "1786"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2694",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217644-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2694"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4149",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217657-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94841,
+          "longitude": -93.28048,
+          "bearing": 270.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4149",
+          "label": "3434"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2620",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217669-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94648,
+          "longitude": -93.09963,
+          "bearing": 270.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2620",
+          "label": "3402"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2632",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217671-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2632"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4001",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217680-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94965,
+          "longitude": -93.29833,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "4001",
+          "label": "7321"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2626",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217681-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2626"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2280",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217693-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94919,
+          "longitude": -93.23364,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2280",
+          "label": "1807"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4085",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217694-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4085"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2616",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217706-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94839,
+          "longitude": -93.24761,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2616",
+          "label": "7342"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2626",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217717-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.95559,
+          "longitude": -93.16616,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2626",
+          "label": "3408"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2697",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217718-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "21",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2697"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2602",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215428-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2602"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2546",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215435-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96325,
+          "longitude": -93.24525,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2546",
+          "label": "1663"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2532",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215436-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05973,
+          "longitude": -93.31876,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2532",
+          "label": "1649"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2528",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215448-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.05969,
+          "longitude": -93.31903,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2528",
+          "label": "1645"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2539",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215449-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.96168,
+          "longitude": -93.24509,
+          "speed": 6.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2539",
+          "label": "1656"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4065",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215459-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9021,
+          "longitude": -93.20321,
+          "bearing": 90.0,
+          "speed": 2.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4065",
+          "label": "1536"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4048",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215483-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.98986,
+          "longitude": -93.28882,
+          "bearing": 180.0,
+          "speed": 13.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "4048",
+          "label": "1519"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4056",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215485-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "22",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.01317,
+          "longitude": -93.28868,
+          "bearing": 270.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4056",
+          "label": "1527"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4086",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217070-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "23",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4086"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3898",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217096-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "23",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.93155,
+          "longitude": -93.25243,
+          "bearing": 180.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "3898",
+          "label": "1326"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2280",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217097-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "23",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2280"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4086",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217098-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "23",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.93408,
+          "longitude": -93.28457,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "4086",
+          "label": "1557"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2682",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216328-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "3",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95142,
+          "longitude": -93.10502,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2682",
+          "label": "1773"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2288",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216332-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "3",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2288"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2486",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216341-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "3",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.9469,
+          "longitude": -93.0858,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2486",
+          "label": "1603"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3893",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216348-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "3",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97736,
+          "longitude": -93.15777,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "3893",
+          "label": "1321"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3893",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216349-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "3",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3893"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2288",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216366-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "3",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.98809,
+          "longitude": -93.21073,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2288",
+          "label": "1815"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5346",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216370-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "3",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.99176,
+          "longitude": -93.2813
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "5346",
+          "label": "60038"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5437",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257056-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "30",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.99872,
+          "longitude": -93.24491,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "5437",
+          "label": "FS-60144"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5444",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257075-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "30",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9991,
+          "longitude": -93.29433,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "5444",
+          "label": "FS-60148"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5437",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257076-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "30",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "5437"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4083",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217530-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "32",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.01248,
+          "longitude": -93.16832,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "4083",
+          "label": "1554"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2072",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217531-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "32",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.01316,
+          "longitude": -93.29824,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2072",
+          "label": "1794"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2070",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217532-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "32",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2070"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2070",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217555-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "32",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.01611,
+          "longitude": -93.32177,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2070",
+          "label": "1792"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4083",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217556-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "32",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.01248,
+          "longitude": -93.16832,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "4083",
+          "label": "1554"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3963",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208322-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "323",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3963"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3963",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208340-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "323",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94114,
+          "longitude": -93.00489,
+          "speed": 6.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3963",
+          "label": "FS-1444"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2504",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258289-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "323",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.93023,
+          "longitude": -93.00319,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2504",
+          "label": "FS-1621"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2504",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258305-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "323",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2504"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3924",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215948-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94785,
+          "longitude": -93.28806,
+          "speed": 4.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "3924",
+          "label": "1405"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2660",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215949-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2660"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2603",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215964-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.00953,
+          "longitude": -93.23709
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2603",
+          "label": "1724"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4094",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215965-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.85717,
+          "longitude": -93.29898,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "4094",
+          "label": "1565"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3944",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215981-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.87408,
+          "longitude": -93.30867,
+          "bearing": 180.0,
+          "speed": 13.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3944",
+          "label": "1425"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2524",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215982-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.04001,
+          "longitude": -93.22696,
+          "speed": 6.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2524",
+          "label": "1641"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2598",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215999-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.85719,
+          "longitude": -93.29903,
+          "bearing": 90.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2598",
+          "label": "1719"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4079",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216004-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97398,
+          "longitude": -93.28234,
+          "bearing": 225.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4079",
+          "label": "1550"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2603",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216005-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "4",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2603"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2538",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216281-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "5",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.95564,
+          "longitude": -93.26264,
+          "speed": 4.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2538",
+          "label": "1655"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4075",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216282-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "5",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4075"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4075",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216299-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "5",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95101,
+          "longitude": -93.26268,
+          "bearing": 180.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "4075",
+          "label": "1546"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4066",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216300-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "5",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05954,
+          "longitude": -93.31812,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "4066",
+          "label": "1537"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3946",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218007-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "515",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.88336,
+          "longitude": -93.2819,
+          "bearing": 90.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3946",
+          "label": "1427"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2585",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218008-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "515",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2585"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3946",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218025-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "515",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3946"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2076",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218032-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "515",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.88213,
+          "longitude": -93.32214,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2076",
+          "label": "1798"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2076",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218037-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "515",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.88213,
+          "longitude": -93.32214,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2076",
+          "label": "1798"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2585",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218053-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "515",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.86002,
+          "longitude": -93.24856,
+          "bearing": 270.0,
+          "speed": 15.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2585",
+          "label": "1706"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5397",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208416-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "538",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.86012,
+          "longitude": -93.30894,
+          "bearing": 90.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "5397",
+          "label": "SL-60105"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5395",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208432-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "538",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.85359,
+          "longitude": -93.23769,
+          "bearing": 135.0,
+          "speed": 2.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "5395",
+          "label": "SL-60103"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5450",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208463-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "539",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.85407,
+          "longitude": -93.23836,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "5450",
+          "label": "SL-60157"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4146",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218262-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94511,
+          "longitude": -93.09615,
+          "bearing": 90.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "4146",
+          "label": "3431"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3949",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218263-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.87998,
+          "longitude": -93.20553,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "3949",
+          "label": "1430"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2680",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218264-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.85419,
+          "longitude": -93.23862,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440403",
+        "vehicle": {
+          "id": "2680",
+          "label": "1771"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2631",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218265-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2631"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2497",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218266-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2497"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2631",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218317-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.87477,
+          "longitude": -93.19566,
+          "bearing": 180.0,
+          "speed": 20.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2631",
+          "label": "3413"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2497",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218318-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94345,
+          "longitude": -93.10403,
+          "bearing": 225.0,
+          "speed": 2.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2497",
+          "label": "1614"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4146",
+      "vehicle": {
+        "trip": {
+          "tripId": "24218319-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "54",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4146"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5442",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208477-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "540",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "5442"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5442",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208485-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "540",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.85586,
+          "longitude": -93.3621,
+          "bearing": 270.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "5442",
+          "label": "FBV-60154"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5448",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208379-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "546",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "5448"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5450",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208387-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "546",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "5450"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5448",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208397-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "546",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.82641,
+          "longitude": -93.29621,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440411",
+        "vehicle": {
+          "id": "5448",
+          "label": "SL-60152"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3947",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216758-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.95182,
+          "longitude": -93.2982
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "3947",
+          "label": "1428"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3930",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216760-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3930"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2600",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216771-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97596,
+          "longitude": -93.22753,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2600",
+          "label": "1721"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2664",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216772-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.88155,
+          "longitude": -93.32232,
+          "bearing": 315.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2664",
+          "label": "1755"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3931",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216796-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.86182,
+          "longitude": -93.32691,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "3931",
+          "label": "1412"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3944",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216798-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3944"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3905",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216799-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9841,
+          "longitude": -93.26732,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "3905",
+          "label": "1333"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4003",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216800-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.91674,
+          "longitude": -93.31886,
+          "speed": 11.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4003",
+          "label": "7323"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3930",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216823-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94502,
+          "longitude": -93.29836,
+          "bearing": 180.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "3930",
+          "label": "1411"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2600",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216824-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2600"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2663",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216837-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.98209,
+          "longitude": -93.23976,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2663",
+          "label": "1754"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3931",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216860-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.86182,
+          "longitude": -93.32691,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "3931",
+          "label": "1412"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2660",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216861-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.88127,
+          "longitude": -93.32207,
+          "bearing": 315.0,
+          "speed": 2.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2660",
+          "label": "1751"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4002",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216862-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97296,
+          "longitude": -93.28477,
+          "bearing": 225.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "4002",
+          "label": "7322"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3905",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216863-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "6",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3905"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2618",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215385-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "612",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.93816,
+          "longitude": -93.33223,
+          "bearing": 225.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2618",
+          "label": "7344"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3960",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215386-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "612",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3960"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2618",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215406-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "612",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.93816,
+          "longitude": -93.33223,
+          "bearing": 225.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2618",
+          "label": "7344"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3960",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215407-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "612",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94993,
+          "longitude": -93.31299,
+          "bearing": 45.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "3960",
+          "label": "1441"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2618",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215408-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "612",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2618"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4049",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216404-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "62",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.99247,
+          "longitude": -93.10584,
+          "speed": 11.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "4049",
+          "label": "1520"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2483",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216422-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "62",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.91134,
+          "longitude": -93.08198,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2483",
+          "label": "1601"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2692",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216423-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "62",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2692"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2692",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216443-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "62",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95202,
+          "longitude": -93.09569,
+          "bearing": 45.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2692",
+          "label": "1781"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3857",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216444-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "62",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3857"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4049",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216460-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "62",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4049"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3871",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216981-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3871"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4051",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216990-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94012,
+          "longitude": -93.17966,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "4051",
+          "label": "1522"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3851",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216991-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94008,
+          "longitude": -93.18463,
+          "bearing": 90.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3851",
+          "label": "1281"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3810",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217013-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95056,
+          "longitude": -93.07965,
+          "bearing": 225.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "3810",
+          "label": "1240"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2494",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217034-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.95084,
+          "longitude": -93.00611,
+          "bearing": 315.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2494",
+          "label": "1611"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4055",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217035-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.96788,
+          "longitude": -93.20647,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "4055",
+          "label": "1526"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2684",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217051-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95328,
+          "longitude": -93.01258
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2684",
+          "label": "1775"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3871",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217053-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94511,
+          "longitude": -93.10413,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "3871",
+          "label": "1301"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4055",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217055-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "63",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96788,
+          "longitude": -93.20647,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "4055",
+          "label": "1526"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3992",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217242-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95083,
+          "longitude": -93.08695,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "3992",
+          "label": "7312"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5345",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217243-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94599,
+          "longitude": -93.10332,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440436",
+        "vehicle": {
+          "id": "5345",
+          "label": "60037"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3863",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217248-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97749,
+          "longitude": -93.04097,
+          "bearing": 270.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "3863",
+          "label": "1293"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3992",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217249-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3992"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2686",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217277-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.01461,
+          "longitude": -92.99222,
+          "speed": 11.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2686",
+          "label": "1777"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2678",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217278-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2678"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3874",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217279-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.01811,
+          "longitude": -93.01983,
+          "bearing": 180.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "3874",
+          "label": "1304"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2678",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217281-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97748,
+          "longitude": -93.04027,
+          "bearing": 90.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2678",
+          "label": "1769"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5345",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217321-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94599,
+          "longitude": -93.10332,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440436",
+        "vehicle": {
+          "id": "5345",
+          "label": "60037"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2686",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217322-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "64",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2686"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4067",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215688-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "645",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.96983,
+          "longitude": -93.43281,
+          "speed": 8.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "4067",
+          "label": "1538"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4078",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215700-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "645",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96765,
+          "longitude": -93.35089,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "4078",
+          "label": "1549"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5401",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208284-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "65",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.00611,
+          "longitude": -93.1635,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "5401",
+          "label": "SL-60109"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5401",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208300-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "65",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "5401"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5425",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257780-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "67",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.95142,
+          "longitude": -93.09623,
+          "bearing": 45.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "5425",
+          "label": "FS-60132"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5446",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257784-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "67",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "5446"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5425",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257795-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "67",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "5425"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5446",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257798-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "67",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96255,
+          "longitude": -93.24806,
+          "bearing": 270.0,
+          "speed": 2.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "5446",
+          "label": "FS-60150"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3998",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215838-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.85172,
+          "longitude": -93.03605,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3998",
+          "label": "7318"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3862",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215845-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.00648,
+          "longitude": -93.10337,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3862",
+          "label": "1292"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3857",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215846-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.96192,
+          "longitude": -93.09767,
+          "bearing": 90.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "3857",
+          "label": "1287"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5382",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215875-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.84074,
+          "longitude": -93.02211,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "5382",
+          "label": "60044"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3948",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215876-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.9514,
+          "longitude": -93.09483,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "3948",
+          "label": "1429"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2681",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215878-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.88639,
+          "longitude": -93.05969,
+          "bearing": 225.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2681",
+          "label": "1772"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5382",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215879-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.84074,
+          "longitude": -93.02211,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "5382",
+          "label": "60044"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3862",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215880-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.00648,
+          "longitude": -93.10337,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "3862",
+          "label": "1292"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3998",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215898-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3998"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4051",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215899-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4051"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3948",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215910-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "68",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3948"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3950",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216719-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "7",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.91959,
+          "longitude": -93.21712,
+          "bearing": 90.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440436",
+        "vehicle": {
+          "id": "3950",
+          "label": "1431"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3932",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216720-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "7",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.88377,
+          "longitude": -93.24849,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "3932",
+          "label": "1413"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2549",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216734-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "7",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.99153,
+          "longitude": -93.30599,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2549",
+          "label": "1666"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5433",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208365-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "70",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.95266,
+          "longitude": -93.01258
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "5433",
+          "label": "FS-60140"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5433",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208366-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "70",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95266,
+          "longitude": -93.01258
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "5433",
+          "label": "FS-60140"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3859",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216494-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "71",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.98874,
+          "longitude": -93.08627,
+          "bearing": 180.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "3859",
+          "label": "1289"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3859",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216495-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "71",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3859"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2528",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215636-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "722",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.05969,
+          "longitude": -93.31903,
+          "bearing": 45.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2528",
+          "label": "1645"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2536",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215637-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "722",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2536"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2536",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215654-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "722",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.09948,
+          "longitude": -93.33315,
+          "bearing": 90.0,
+          "speed": 13.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2536",
+          "label": "1653"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2532",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215675-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "722",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05973,
+          "longitude": -93.31876,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2532",
+          "label": "1649"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2526",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215500-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "723",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.06485,
+          "longitude": -93.32551,
+          "speed": 13.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2526",
+          "label": "1643"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4066",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215510-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "723",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05954,
+          "longitude": -93.31812,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "4066",
+          "label": "1537"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4032",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215516-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "724",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05953,
+          "longitude": -93.31791,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "4032",
+          "label": "1503"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2526",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215517-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "724",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2526"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4032",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215540-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "724",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.05953,
+          "longitude": -93.31791,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "4032",
+          "label": "1503"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2602",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215556-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "724",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.09327,
+          "longitude": -93.37963,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2602",
+          "label": "1723"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4059",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215557-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "724",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "4059"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2602",
+      "vehicle": {
+        "trip": {
+          "tripId": "24215567-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "724",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.09327,
+          "longitude": -93.37963,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2602",
+          "label": "1723"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5347",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217175-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "74",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.94512,
+          "longitude": -93.09701,
+          "bearing": 90.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "5347",
+          "label": "60039"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2691",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217176-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "74",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.91787,
+          "longitude": -93.19406,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2691",
+          "label": "1780"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3866",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217177-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "74",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3866"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3866",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217208-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "74",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94654,
+          "longitude": -93.09504,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "3866",
+          "label": "1296"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2693",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217209-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "74",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.95271,
+          "longitude": -93.01263,
+          "bearing": 180.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2693",
+          "label": "1782"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2687",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217220-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "74",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.92059,
+          "longitude": -93.21996
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2687",
+          "label": "1778"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2129",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257651-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "83",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.00888,
+          "longitude": -93.15831,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440408",
+        "vehicle": {
+          "id": "2129",
+          "label": "FS-64335"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2111",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257665-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "83",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97609,
+          "longitude": -93.14655,
+          "speed": 11.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2111",
+          "label": "FS-64317"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2129",
+      "vehicle": {
+        "trip": {
+          "tripId": "24257666-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "83",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.00888,
+          "longitude": -93.15831,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440408",
+        "vehicle": {
+          "id": "2129",
+          "label": "FS-64335"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2127",
+      "vehicle": {
+        "trip": {
+          "tripId": "24258672-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "83",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.91347,
+          "longitude": -93.14695,
+          "bearing": 315.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2127",
+          "label": "FS-64333"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5449",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208245-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "87",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.89691,
+          "longitude": -93.17222
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "5449",
+          "label": "SL-60156"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5398",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208246-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "87",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.01312,
+          "longitude": -93.168,
+          "bearing": 315.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "5398",
+          "label": "SL-60106"
+        }
+      }
+    },
+    {
+      "id": "1700440465_5449",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208256-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "87",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.89691,
+          "longitude": -93.17222
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "5449",
+          "label": "SL-60156"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2274",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217117-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "9",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.92057,
+          "longitude": -93.22016,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2274",
+          "label": "1801"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3899",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217118-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "9",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9807,
+          "longitude": -93.30823,
+          "bearing": 45.0,
+          "speed": 4.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "3899",
+          "label": "1327"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2278",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217132-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "9",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.96964,
+          "longitude": -93.32046,
+          "speed": 6.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2278",
+          "label": "1805"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2274",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217133-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "9",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.92057,
+          "longitude": -93.22016,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2274",
+          "label": "1801"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2278",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217143-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "9",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2278"
+        }
+      }
+    },
+    {
+      "id": "1700440465_133",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208594-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "901",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9784,
+          "longitude": -93.2694
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "133",
+          "label": "133"
+        }
+      }
+    },
+    {
+      "id": "1700440465_135",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208598-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "901",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.92962,
+          "longitude": -93.22593
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "135",
+          "label": "135"
+        }
+      }
+    },
+    {
+      "id": "1700440465_137",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208600-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "901",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.863976,
+          "longitude": -93.22309
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "137",
+          "label": "137"
+        }
+      }
+    },
+    {
+      "id": "1700440465_645",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208659-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "901",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.85421,
+          "longitude": -93.23883
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "645",
+          "label": "645"
+        }
+      }
+    },
+    {
+      "id": "1700440465_649",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208664-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "901",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.968643,
+          "longitude": -93.25128
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "649",
+          "label": "649"
+        }
+      }
+    },
+    {
+      "id": "1700440465_652",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208667-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "901",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.982414,
+          "longitude": -93.276764
+        },
+        "timestamp": "1700440435",
+        "vehicle": {
+          "id": "652",
+          "label": "652"
+        }
+      }
+    },
+    {
+      "id": "1700440465_128",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208748-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "902",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.982475,
+          "longitude": -93.27669
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "128",
+          "label": "128"
+        }
+      }
+    },
+    {
+      "id": "1700440465_132",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208750-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "902",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.974915,
+          "longitude": -93.26025
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "132",
+          "label": "132"
+        }
+      }
+    },
+    {
+      "id": "1700440465_136",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208751-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "902",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.955715,
+          "longitude": -93.16292
+        },
+        "timestamp": "1700440433",
+        "vehicle": {
+          "id": "136",
+          "label": "136"
+        }
+      }
+    },
+    {
+      "id": "1700440465_644",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208809-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "902",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.946144,
+          "longitude": -93.09232
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "644",
+          "label": "644"
+        }
+      }
+    },
+    {
+      "id": "1700440465_646",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208813-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "902",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.955704,
+          "longitude": -93.144966
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "646",
+          "label": "646"
+        }
+      }
+    },
+    {
+      "id": "1700440465_648",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208816-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "902",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.971687,
+          "longitude": -93.215324
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "648",
+          "label": "648"
+        }
+      }
+    },
+    {
+      "id": "1700440465_138",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208843-AUG23-RAIL-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "902",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.94933,
+          "longitude": -93.096085
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "138",
+          "label": "138"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2338",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208081-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "903",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.78963,
+          "longitude": -93.22102,
+          "speed": 22.0
+        },
+        "timestamp": "1700440432",
+        "vehicle": {
+          "id": "2338",
+          "label": "FBV-8023"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2390",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208082-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "903",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2390"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2338",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208083-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "903",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2338"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2228",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208112-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "903",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.77771,
+          "longitude": -93.3206,
+          "bearing": 90.0
+        },
+        "timestamp": "1700438392",
+        "vehicle": {
+          "id": "2228",
+          "label": "FBV-8021"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2390",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208115-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "903",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.72316,
+          "longitude": -93.21597,
+          "speed": 8.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2390",
+          "label": "FBV-8020"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2338",
+      "vehicle": {
+        "trip": {
+          "tripId": "24208116-AUG23-MVS-MTS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "903",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2338"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2337",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216229-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "904",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.88368,
+          "longitude": -93.29544,
+          "speed": 8.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2337",
+          "label": "8147"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2387",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216230-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "904",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2387"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2387",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216260-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "904",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.77405,
+          "longitude": -93.28883,
+          "bearing": 225.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2387",
+          "label": "8148"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2335",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216261-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "904",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97253,
+          "longitude": -93.2741,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2335",
+          "label": "8143"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2337",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216262-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "904",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2337"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2646",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217397-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.01269,
+          "longitude": -93.16838,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2646",
+          "label": "8007"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2290",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217399-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97255,
+          "longitude": -93.16691,
+          "speed": 20.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2290",
+          "label": "8013"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2642",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217400-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.9179,
+          "longitude": -93.19474,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2642",
+          "label": "8003"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2291",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217401-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.92131,
+          "longitude": -93.22042
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2291",
+          "label": "8014"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2644",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217402-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2644"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2641",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217403-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2641"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2644",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217469-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.91802,
+          "longitude": -93.1867,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2644",
+          "label": "8005"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2641",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217470-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.98908,
+          "longitude": -93.16695,
+          "bearing": 180.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2641",
+          "label": "8002"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2646",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217471-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.01269,
+          "longitude": -93.16838,
+          "bearing": 225.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2646",
+          "label": "8007"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2290",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217472-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2290"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2642",
+      "vehicle": {
+        "trip": {
+          "tripId": "24217473-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "921",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2642"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2431",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216568-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.05981,
+          "longitude": -93.31791,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2431",
+          "label": "8124"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2177",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216570-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2177"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3726",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216571-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.03657,
+          "longitude": -93.32292,
+          "bearing": 270.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440436",
+        "vehicle": {
+          "id": "3726",
+          "label": "3303"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2377",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216572-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.98451,
+          "longitude": -93.30596,
+          "bearing": 270.0,
+          "speed": 15.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2377",
+          "label": "8122"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4207",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216573-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97099,
+          "longitude": -93.26148,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "4207",
+          "label": "3485"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2328",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216579-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2328"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3806",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216580-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.05938,
+          "longitude": -93.31726,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "3806",
+          "label": "3371"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2182",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216655-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97182,
+          "longitude": -93.26341,
+          "bearing": 135.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2182",
+          "label": "8701"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2177",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216657-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97628,
+          "longitude": -93.27357,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2177",
+          "label": "8102"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2328",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216658-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.99198,
+          "longitude": -93.30827,
+          "bearing": 180.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2328",
+          "label": "8132"
+        }
+      }
+    },
+    {
+      "id": "1700440465_4199",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216660-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.04238,
+          "longitude": -93.3305,
+          "bearing": 135.0,
+          "speed": 6.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "4199",
+          "label": "3477"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2431",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216661-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05981,
+          "longitude": -93.31791,
+          "bearing": 90.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2431",
+          "label": "8124"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2377",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216662-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2377"
+        }
+      }
+    },
+    {
+      "id": "1700440465_3726",
+      "vehicle": {
+        "trip": {
+          "tripId": "24216675-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "923",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "3726"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2326",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255423-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.85392,
+          "longitude": -93.23851,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "2326",
+          "label": "8121"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2433",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255425-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.88089,
+          "longitude": -93.26798,
+          "bearing": 180.0,
+          "speed": 15.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2433",
+          "label": "8129"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2432",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255426-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.93584,
+          "longitude": -93.26758,
+          "bearing": 180.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2432",
+          "label": "8128"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2179",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255427-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.97612,
+          "longitude": -93.27319,
+          "bearing": 135.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2179",
+          "label": "8104"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2205",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255428-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.93955,
+          "longitude": -93.26578,
+          "bearing": 270.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2205",
+          "label": "8116"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2329",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255429-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.03543,
+          "longitude": -93.3008,
+          "bearing": 90.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2329",
+          "label": "8135"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2436",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255430-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05947,
+          "longitude": -93.31894,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2436",
+          "label": "8138"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2383",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255431-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 44.99883,
+          "longitude": -93.29567,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440443",
+        "vehicle": {
+          "id": "2383",
+          "label": "8137"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2204",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255433-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 45.05945,
+          "longitude": -93.3187,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2204",
+          "label": "8115"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2203",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255434-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2203"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2327",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255435-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2327"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2436",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255516-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.05947,
+          "longitude": -93.31894,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2436",
+          "label": "8138"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2204",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255517-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.05945,
+          "longitude": -93.3187,
+          "bearing": 270.0
+        },
+        "timestamp": "1700440444",
+        "vehicle": {
+          "id": "2204",
+          "label": "8115"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2201",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255518-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.97431,
+          "longitude": -93.26614,
+          "bearing": 315.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440438",
+        "vehicle": {
+          "id": "2201",
+          "label": "8112"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2203",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255519-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 45.0506,
+          "longitude": -93.32025,
+          "bearing": 180.0,
+          "speed": 8.0
+        },
+        "timestamp": "1700440440",
+        "vehicle": {
+          "id": "2203",
+          "label": "8114"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2327",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255520-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.99387,
+          "longitude": -93.29414,
+          "speed": 13.0
+        },
+        "timestamp": "1700440437",
+        "vehicle": {
+          "id": "2327",
+          "label": "8130"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2379",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255521-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.98948,
+          "longitude": -93.29074,
+          "bearing": 315.0,
+          "speed": 11.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2379",
+          "label": "8126"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2378",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255522-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.93989,
+          "longitude": -93.26258,
+          "speed": 8.0
+        },
+        "timestamp": "1700440439",
+        "vehicle": {
+          "id": "2378",
+          "label": "8125"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2432",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255523-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2432"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2326",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255524-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.85392,
+          "longitude": -93.23851,
+          "bearing": 180.0
+        },
+        "timestamp": "1700440431",
+        "vehicle": {
+          "id": "2326",
+          "label": "8121"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2205",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255525-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2205"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2382",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255526-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.90141,
+          "longitude": -93.26266,
+          "speed": 2.0
+        },
+        "timestamp": "1700440441",
+        "vehicle": {
+          "id": "2382",
+          "label": "8134"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2175",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255527-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 44.86,
+          "longitude": -93.25158,
+          "bearing": 270.0,
+          "speed": 13.0
+        },
+        "timestamp": "1700440442",
+        "vehicle": {
+          "id": "2175",
+          "label": "8100"
+        }
+      }
+    },
+    {
+      "id": "1700440465_2433",
+      "vehicle": {
+        "trip": {
+          "tripId": "24255528-AUG23-MVS-BUS-Sunday-01",
+          "startDate": "20231119",
+          "routeId": "924",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 0.0,
+          "longitude": 0.0
+        },
+        "vehicle": {
+          "id": "2433"
+        }
+      }
+    }
+  ]
+}

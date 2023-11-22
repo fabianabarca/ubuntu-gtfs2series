@@ -6,9 +6,9 @@ import requests
 from google.transit import gtfs_realtime_pb2 as gtfs_rt
 from google.protobuf import json_format
 
-realtime_feed_url = "https://cdn.mbta.com/realtime/TripUpdates.pb"
-entity_type = "trip_update"
-agency = "mbta"
+realtime_feed_url = "http://gtfs.viainfo.net/vehicle/vehiclepositions.pb"
+entity_type = "vehicle"
+agency = "san_antonio"
 
 # Create a FeedMessage object from the GTFS Realtime FeedMessage
 feed_message = gtfs_rt.FeedMessage()
