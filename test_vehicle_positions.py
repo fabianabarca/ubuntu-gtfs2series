@@ -62,42 +62,42 @@ def fetch():
     
     if not last_timestamp["value"] == timestamp:
         
-        # Save FeedMessage
-        feed_message_df = pd.DataFrame(
-            {
-                "timestamp": [timestamp],
-                "entityType": [entityType],
-                "incrementality": [incrementality],
-                "gtfsRealtimeVersion": [gtfsRealtimeVersion],
-            }
-        )
-        feed_message_df.to_sql(
-            "feed_messages", engine, if_exists="append", index=False
-        )
-        
-        # Build FeedEntity
-        vehicle_positions_df = pd.json_normalize(
-            json_format.MessageToDict(vehicle_positions)["entity"], sep="_"
-        )
-        vehicle_positions_df["feedMessage_timestamp"] = timestamp
-        vehicle_positions_df["feedMessage_entityType"] = entityType
-        vehicle_positions_df.rename(columns={"id": "entityId"}, inplace=True)
-        
-        vehicle_positions_df["vehicle_position_point"] = vehicle_positions_df.apply(
-            lambda row: f"POINT({row.vehicle_position_longitude} {row.vehicle_position_latitude})",
-            axis=1,
-        )
-        vehicle_positions_df["vehicle_timestamp"] = vehicle_positions_df.apply(
-            lambda row: datetime.datetime.fromtimestamp(int(row.vehicle_timestamp)) if pd.notnull(row.vehicle_timestamp) else None,
-            axis=1,
-        )
+        try:
+            # Save FeedMessage
+            feed_message_df = pd.DataFrame(
+                {
+                    "timestamp": [timestamp],
+                    "entityType": [entityType],
+                    "incrementality": [incrementality],
+                    "gtfsRealtimeVersion": [gtfsRealtimeVersion],
+                }
+            )
+            feed_message_df.to_sql(
+                "feed_messages", engine, if_exists="append", index=False
+            )
+            
+            # Build FeedEntity
+            vehicle_positions_df = pd.json_normalize(
+                json_format.MessageToDict(vehicle_positions)["entity"], sep="_"
+            )
+            vehicle_positions_df["feedMessage_timestamp"] = timestamp
+            vehicle_positions_df["feedMessage_entityType"] = entityType
+            vehicle_positions_df.rename(columns={"id": "entityId"}, inplace=True)
+            
+            vehicle_positions_df["vehicle_position_point"] = vehicle_positions_df.apply(
+                lambda row: f"POINT({row.vehicle_position_longitude} {row.vehicle_position_latitude})",
+                axis=1,
+            )
+            vehicle_positions_df["vehicle_timestamp"] = vehicle_positions_df.apply(
+                lambda row: datetime.datetime.fromtimestamp(int(row.vehicle_timestamp)) if pd.notnull(row.vehicle_timestamp) else None,
+                axis=1,
+            )
 
-        # Save VehiclePosition
-        try:
-            del vehicle_positions_df["vehicle_multiCarriageDetails"]
-        except:
-            pass
-        try:
+            # Save VehiclePosition
+            try:
+                del vehicle_positions_df["vehicle_multiCarriageDetails"]
+            except:
+                pass
             vehicle_positions_df.to_sql(
                     "vehicle_positions", engine, if_exists="append", index=False
                 )
