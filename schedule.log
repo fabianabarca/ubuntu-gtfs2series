@@ -4721,3 +4721,1377 @@ INFO: Checking at 2023-11-21 22:26:31.851115
 INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
 INFO: Checking at 2023-11-21 22:26:42.179156
 INFO: GTFS Schedule feed is unchanged and has not been imported: "4cd50c1defd6eea8ed3fa79e01ee894e-2"
+INFO: New GTFS Schedule updating session
+MBTA
+2023-11-26 11:38:12.619269
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-26 11:38:22.726285
+INFO: New GTFS Schedule feed detected: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: New GTFS Schedule updating session
+MBTA
+2023-11-26 11:47:12.333613
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-26 11:47:22.397017
+INFO: New GTFS Schedule feed detected: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-26 11:48:51.847597
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 11:49:02.205494
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 11:49:12.534606
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 11:49:22.901679
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 11:49:33.260996
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 11:49:43.609904
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 11:49:53.972209
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 11:50:04.269336
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: New GTFS Schedule updating session
+MBTA
+2023-11-26 13:34:36.881349
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-26 13:34:46.960205
+INFO: New GTFS Schedule feed detected: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: New GTFS Schedule updating session
+MBTA
+2023-11-26 13:40:03.416467
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-26 13:40:13.478068
+INFO: New GTFS Schedule feed detected: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-26 13:41:40.617624
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:41:50.988789
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:42:01.309078
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:42:11.649329
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:42:21.999185
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:42:32.358321
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:42:42.717334
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:42:53.072535
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:43:03.434872
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:43:13.799699
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:43:24.173744
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:43:34.533011
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:43:44.898955
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:43:55.254637
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:44:05.585285
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: New GTFS Schedule updating session
+MBTA
+2023-11-26 13:57:39.235610
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-26 13:57:49.297977
+INFO: New GTFS Schedule feed detected: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-26 13:59:13.044648
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:59:23.392722
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:59:33.733195
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:59:44.075930
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 13:59:54.490810
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:00:04.818390
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:00:15.170986
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:00:25.536283
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:00:35.888823
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:00:46.252373
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:00:56.592038
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:01:06.927926
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:01:17.342524
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:01:27.681781
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:01:38.031091
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:01:48.375410
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:01:58.688521
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:02:09.019820
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:02:19.361094
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:02:29.701119
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:02:40.139812
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:02:50.475357
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:03:00.799692
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:03:11.134088
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:03:21.475153
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:03:31.822150
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:03:42.160774
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:03:52.966923
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:04:03.386134
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:04:13.723552
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:04:24.065354
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:04:34.395818
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:04:44.757298
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:04:55.112125
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:05:05.454382
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:05:15.806722
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:05:26.242433
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:05:36.603651
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:05:46.947539
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:05:57.280150
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:06:07.614396
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:06:17.949971
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:06:28.304338
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:06:38.655649
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:06:49.079621
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:06:59.427621
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:07:09.783900
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:07:20.135361
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:07:30.488323
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:07:40.851861
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:07:51.206429
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:08:01.559547
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:08:11.976190
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:08:22.321751
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:08:32.686531
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:08:43.047899
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:08:53.403293
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:09:03.764241
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:09:14.127618
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:09:24.497517
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:09:34.955767
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:09:45.312597
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:09:55.674253
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:10:06.002565
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:10:16.332921
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:10:26.696701
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:10:37.090886
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:10:47.461697
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:10:57.832327
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:11:08.203925
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:11:18.557880
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:11:28.917563
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:11:39.257186
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:11:49.633009
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:11:59.981384
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:12:10.329867
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:12:20.685795
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:12:31.044596
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:12:41.402560
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:12:51.770664
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:13:02.119160
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:13:12.469998
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:13:22.838185
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:13:33.234780
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:13:43.627441
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:13:54.044047
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:14:04.413943
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:14:14.830597
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:14:25.205835
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:14:35.603011
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:14:46.004728
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:14:56.407496
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:15:06.783442
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:15:17.181110
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:15:27.585610
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:15:38.001579
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:15:48.391799
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:15:58.763487
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:16:09.137651
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:16:19.545496
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:16:29.944911
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:16:40.347559
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:16:50.746553
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:17:01.124515
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:17:11.494505
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:17:21.896186
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:17:32.307527
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:17:42.699467
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:17:53.095472
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:18:03.492866
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:18:13.860481
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:18:24.227971
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:18:34.630451
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:18:45.012432
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:18:55.348798
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:19:05.704419
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:19:16.084071
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:19:26.469379
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:19:36.871702
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:19:47.274575
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:19:57.648513
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:20:08.058958
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:20:18.461368
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:20:28.852283
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:20:39.246975
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:20:49.654023
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:21:00.033949
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:21:10.434203
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:21:20.836797
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:21:31.240175
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:21:41.648057
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:21:52.036454
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:22:02.403906
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:22:12.809465
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:22:23.722588
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:22:34.106573
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:22:44.502581
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:22:54.880603
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:23:05.258473
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:23:15.730965
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:23:26.119186
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:23:36.506568
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:23:46.907225
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:23:57.297698
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:24:07.675017
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:24:18.066430
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:24:28.453726
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:24:38.874466
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:24:49.274569
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:24:59.661902
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:25:10.045980
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:25:20.415071
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:25:30.801295
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:25:41.159667
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:25:51.550965
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:26:02.015080
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:26:12.408548
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:26:22.811568
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:26:33.197256
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:26:43.555794
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:26:53.923658
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:27:04.258949
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:27:14.606265
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:27:25.019970
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:27:35.381750
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:27:45.729305
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:27:56.057880
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:28:06.383100
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:28:16.724697
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:28:27.072305
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:28:37.414082
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:28:47.839763
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:28:58.202149
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:29:08.566620
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:29:18.924690
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:29:29.260694
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:29:41.623125
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:29:51.984650
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:30:02.332114
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:30:12.772638
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:30:23.136113
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:30:33.501237
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:30:43.847722
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:30:54.234239
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:31:04.572447
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:31:14.928811
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:31:25.281819
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:31:35.621210
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:31:45.983040
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:31:56.331270
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:32:06.669479
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:32:17.031644
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:32:27.398030
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:32:37.772649
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:32:48.137956
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:32:58.482074
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:33:08.821933
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:33:19.202616
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:33:29.580458
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:33:39.932142
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:33:50.285027
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:34:00.643097
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:34:11.012069
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:34:21.399000
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:34:31.785422
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:34:42.178189
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:34:52.550132
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:35:03.080439
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:35:13.442061
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:35:23.841963
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:35:34.226039
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:35:44.618300
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:35:54.987702
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:36:05.351215
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:36:15.724842
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:36:26.134936
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:36:36.533494
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:36:46.920674
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:36:57.322834
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:37:07.696998
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:37:18.071767
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:37:28.465765
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:37:38.869124
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:37:49.273888
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:37:59.610048
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:38:09.956001
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:38:20.320478
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:38:30.685075
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:38:41.057393
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:38:51.420109
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:39:01.785082
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:39:12.104914
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:39:22.467620
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:39:32.850345
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:39:43.213671
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:39:53.572178
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:40:03.920713
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:40:14.273932
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:40:24.630258
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:40:35.004085
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:40:45.354868
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:40:55.712496
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:41:06.129206
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:41:16.458555
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:41:26.821542
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:41:37.176802
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:41:47.529641
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:41:57.892170
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:42:08.218882
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:42:18.568558
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:42:29.004362
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:42:39.365959
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:42:49.731616
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:43:00.080830
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:43:10.424809
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:43:20.785821
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:43:31.149018
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:43:41.500101
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:43:51.941128
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:44:02.296594
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:44:12.639713
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:44:22.997655
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:44:33.360725
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:44:43.715653
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:44:54.080267
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:45:04.407490
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:45:14.872228
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:45:25.204963
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:45:35.565931
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:45:45.895797
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:45:56.222264
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:46:06.545643
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:46:16.880865
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:46:27.230470
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:46:37.624904
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:46:47.983353
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:46:58.329812
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:47:08.678057
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:47:19.030220
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:47:29.382377
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:47:39.747650
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:47:50.102332
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:48:00.530953
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:48:10.897621
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:48:21.255708
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:48:31.607737
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:48:41.971599
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:48:52.321668
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:49:02.681986
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:49:13.031987
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:49:23.456199
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:49:33.802753
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:49:44.160985
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:49:54.523109
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:50:04.842400
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:50:15.198588
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:50:25.559346
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:50:35.908789
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:50:46.314311
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:50:56.671433
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:51:07.006731
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:51:17.351136
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:51:27.709057
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:51:38.062827
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:51:48.430698
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:51:58.761858
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:52:09.197856
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:52:19.534663
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:52:29.904300
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:52:40.260830
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:52:50.621020
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:53:00.974459
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:53:11.356218
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:53:21.722563
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:53:32.175523
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:53:42.521420
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:53:52.869911
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:54:03.222986
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:54:13.544395
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:54:23.901308
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:54:34.256159
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:54:44.601794
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:54:55.042100
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:55:05.396328
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:55:15.755418
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:55:26.125155
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:55:36.444894
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:55:46.774582
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:55:57.120882
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:56:07.679395
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:56:18.052449
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:56:28.543681
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:56:38.890739
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:56:49.258041
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:56:59.601022
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:57:09.937676
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:57:20.298499
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:57:30.664167
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:57:41.011408
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:57:51.377677
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:58:01.733001
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:58:12.080581
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:58:22.454097
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:58:32.810375
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:58:43.175129
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:58:53.532245
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:59:03.872037
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:59:14.231112
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:59:24.586073
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:59:34.944000
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:59:45.304359
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 14:59:55.668784
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:00:06.005487
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:00:16.358167
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:00:26.724085
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:00:37.075844
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:00:47.423539
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:00:57.775122
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:01:08.169740
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:01:18.563393
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:01:28.955686
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:01:39.336174
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:01:49.724896
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:02:00.121651
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:02:10.497169
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:02:20.869443
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:02:31.260870
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:02:41.644244
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:02:52.000029
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:03:02.377163
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:03:12.767646
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:03:23.151441
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:03:33.552824
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:03:43.932316
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:03:54.280420
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:04:04.626668
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:04:14.976754
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:04:25.371681
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:04:35.710123
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:04:46.065320
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:04:56.400913
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:05:06.732811
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:05:17.078526
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:05:27.521241
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:05:37.859228
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:05:48.200738
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:05:58.535405
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:06:08.876569
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:06:19.231310
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:06:29.582029
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:06:39.935125
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:06:50.386088
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:07:00.723215
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:07:11.057862
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:07:21.418750
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:07:31.756336
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:07:42.110218
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:07:52.469773
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:08:02.799440
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:08:13.198747
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:08:23.548378
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:08:33.887778
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:08:44.231813
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:08:54.591650
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:09:04.924641
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:09:15.286088
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:09:25.636138
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:09:36.049692
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:09:46.425478
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:09:56.787332
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:10:07.116609
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:10:17.459397
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:10:27.817873
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:10:38.178469
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:10:48.515979
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:10:58.932359
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:11:09.270368
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:11:19.618192
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:11:29.951508
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:11:40.305652
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:11:50.664451
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:12:01.024091
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:12:11.366803
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:12:21.797038
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:12:32.138895
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:12:42.491951
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:12:52.852552
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:13:03.203648
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:13:13.565556
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:13:23.927899
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:13:34.292744
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:13:44.720777
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:13:55.084831
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:14:05.416099
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:14:15.774245
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:14:26.121292
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:14:36.490438
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:14:46.833135
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:14:57.200940
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:15:07.629449
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:15:17.986042
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:15:28.335562
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:15:38.700132
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:15:49.054949
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:15:59.416205
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:16:09.788986
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:16:20.143509
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:16:30.571276
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:16:40.918656
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:16:51.243302
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:17:01.599224
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:17:11.952935
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:17:22.299108
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:17:32.649176
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:17:43.006529
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:17:53.453398
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:18:03.794113
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:18:14.155551
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:18:24.518733
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:18:34.877117
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:18:45.247942
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:18:55.607930
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:19:05.965624
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:19:16.391472
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:19:26.753797
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:19:37.101116
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:19:47.456080
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:19:57.812083
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:20:08.160772
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:20:18.495376
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:20:28.860845
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:20:39.228889
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:20:49.592268
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:20:59.961498
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:21:10.322049
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:21:20.677317
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:21:31.033385
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:21:41.398171
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:21:51.757342
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:22:02.126842
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:22:12.502809
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:22:22.867654
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:22:33.253677
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:22:43.600114
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:22:53.950448
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:23:04.315694
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:23:14.683545
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:23:25.043962
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:23:35.389933
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:23:45.753392
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:23:56.121951
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:24:06.474368
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:24:16.823874
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:24:27.179277
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:24:37.541203
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:24:47.900757
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:24:58.260443
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:25:08.630832
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:25:18.988509
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:25:29.854119
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:25:40.213189
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:25:50.561142
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:26:00.904375
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:26:11.252800
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:26:21.596356
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:26:31.921249
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:26:42.252475
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:26:52.601261
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:27:02.943773
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:27:13.286952
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:27:23.625663
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:27:33.966629
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:27:44.284098
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:27:54.631461
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:28:04.953307
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:28:15.306712
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:28:25.629656
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:28:35.970602
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:28:46.371906
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:28:56.711013
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:29:07.042970
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:29:17.402142
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:29:27.767772
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:29:38.134998
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:29:48.492394
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:29:58.900945
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:30:09.454492
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:30:19.805376
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:30:30.296772
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:30:40.654232
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:30:51.004509
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:31:01.362695
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:31:11.721020
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:31:22.080344
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:31:32.514716
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:31:42.859694
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:31:53.234019
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:32:03.599020
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:32:13.959793
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:32:24.316075
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:32:34.684273
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:32:45.037272
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:32:55.453154
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:33:05.786130
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:33:16.144608
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:33:26.508275
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:33:36.836591
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:33:47.208917
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:33:57.559793
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:34:07.898633
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:34:18.326747
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:34:28.653546
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:34:39.000345
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:34:49.337452
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:34:59.674678
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:35:10.156859
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:35:20.504319
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:35:30.862598
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:35:41.283990
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:35:51.641013
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:36:01.969535
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:36:12.311347
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:36:22.672362
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:36:33.041198
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:36:43.405849
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:36:53.764671
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:37:04.174264
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:37:14.509469
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:37:24.866297
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:37:35.250321
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:37:45.593349
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:37:55.948591
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:38:06.288621
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:38:16.622312
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:38:27.048760
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:38:37.410566
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:38:47.764276
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:38:58.111995
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:39:08.456555
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:39:18.802478
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:39:29.159163
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:39:39.495103
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:39:49.950816
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:40:00.301225
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:40:10.670657
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:40:20.999221
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:40:31.337204
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:40:41.670574
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:40:52.014001
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:41:02.376391
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:41:12.780201
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:41:23.113182
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:41:33.470056
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:41:43.824026
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:41:54.171413
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:42:04.505841
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:42:14.836891
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:42:25.192287
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:42:35.628769
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:42:45.959506
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:42:56.301974
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:43:06.641700
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:43:16.981763
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:43:27.325230
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:43:37.662533
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:43:48.004589
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:43:58.450500
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:44:08.806710
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:44:19.131912
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:44:29.481234
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:44:39.841538
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:44:50.187270
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:45:00.520554
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: New GTFS Schedule updating session
+MBTA
+2023-11-26 15:50:20.818414
+Data source: https://cdn.mbta.com/MBTA_GTFS.zip
+INFO: No feed_tag found in the table 'feeds'
+INFO: A new feed will be imported
+INFO: Checking at 2023-11-26 15:50:30.884340
+INFO: New GTFS Schedule feed detected: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Table agency loaded
+INFO: Table stops loaded
+INFO: Table shapes loaded
+INFO: Table geoshapes loaded
+INFO: Table calendar loaded
+INFO: Table calendar_dates loaded
+INFO: Table routes loaded
+INFO: Table trips loaded
+INFO: Table stop_times loaded
+INFO: Table feed_info loaded
+INFO: Checking at 2023-11-26 15:51:57.756450
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"
+INFO: Checking at 2023-11-26 15:52:08.092992
+INFO: GTFS Schedule feed is unchanged and has not been imported: "24c962d7b2e4696614a036ad410a85d8-2"

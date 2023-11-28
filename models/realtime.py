@@ -22,9 +22,9 @@ class FeedMessage(Base):
     incrementality = Column(String(15))
     gtfsRealtimeVersion = Column(String(15))
 
-    trip_updates = relationship("TripUpdate", backref="feedMessage")
-    vehicle_positions = relationship("VehiclePosition", backref="feedMessage")
-    alerts = relationship("Alert", backref="feedMessage")
+    trip_updates = relationship("TripUpdate", back_populates="feedMessage")
+    vehicle_positions = relationship("VehiclePosition", back_populates="feedMessage")
+    alerts = relationship("Alert", back_populates="feedMessage")
 
 
 class TripUpdate(Base):
@@ -41,7 +41,8 @@ class TripUpdate(Base):
     feedMessage_entityType = Column(String(63), primary_key=True)
     entityId = Column(String(127), primary_key=True)
 
-    stop_time_updates = relationship("StopTimeUpdate", backref="tripUpdate")
+    feed_message = relationship("FeedMessage", back_populates="trip_updates")
+    stop_time_updates = relationship("StopTimeUpdate", back_populates="trip_update")
 
     # TripDescriptor (message)
     tripUpdate_trip_tripId = Column(String(255))
@@ -81,6 +82,8 @@ class StopTimeUpdate(Base):
     feedMessage_entityType = Column(String(63), primary_key=True)
     entityId = Column(String(127), primary_key=True)
     stopSequence = Column(Integer, primary_key=True)
+
+    trip_update = relationship("TripUpdate", back_populates="stop_time_updates")
 
     # Stop sequence (uint32) (composite primary key)
     # Stop ID (string)
@@ -124,6 +127,8 @@ class VehiclePosition(Base):
     feedMessage_timestamp = Column(DateTime, primary_key=True)
     feedMessage_entityType = Column(String(63), primary_key=True)
     entityId = Column(String(127), primary_key=True)
+
+    feed_message = relationship("FeedMessage", back_populates="vehicle_positions")
 
     # TripDescriptor (message)
     vehicle_trip_tripId = Column(String(255), primary_key=True)
@@ -203,9 +208,10 @@ class Alert(Base):
     feedMessage_entityType = Column(String(63), primary_key=True)
     entityId = Column(String(127), primary_key=True)
 
-    active_periods = relationship("ActivePeriod", backref="alert")
-    informed_entities = relationship("InformedEntity", backref="alert")
-    translations = relationship("Translation", backref="alert")
+    feed_message = relationship("FeedMessage", back_populates="alerts")
+    active_periods = relationship("ActivePeriod", back_populates="alert")
+    informed_entities = relationship("InformedEntity", back_populates="alert")
+    translations = relationship("Translation", back_populates="alert")
 
     # Cause (enum)
     alert_cause = Column(String(255))
@@ -234,6 +240,8 @@ class ActivePeriod(Base):
     entityId = Column(String(127), primary_key=True)
     activePeriodId = Column(Integer, primary_key=True)
 
+    alert = relationship("Alert", back_populates="active_periods")
+
     start = Column(DateTime)
     end = Column(DateTime)
 
@@ -261,6 +269,8 @@ class InformedEntity(Base):
     feedMessage_entityType = Column(String(63), primary_key=True)
     entityId = Column(String(127), primary_key=True)
     informedentityId = Column(Integer, primary_key=True)
+
+    alert = relationship("Alert", back_populates="informed_entities")
 
     agencyId = Column(String(63))
     routeId = Column(String(63))
@@ -297,6 +307,8 @@ class Translation(Base):
     alert_translatedString = Column(String(127), primary_key=True)
     translationId = Column(Integer, primary_key=True)
 
+    alert = relationship("Alert", back_populates="translations")
+
     # Translation (message)
     translation_text = Column(Text)
     translation_language = Column(String(31))
@@ -311,3 +323,10 @@ class Translation(Base):
             ],
         ),
     )
+
+
+"""
+Notes:
+
+- It's important to note that the ForeignKeyConstraint is the only way to define a composite foreign key. While we could also have placed individual ForeignKey objects on individual columns, SQLAlchemy would not be aware that these two values should be paired together - it would be two individual foreign key constraints instead of a single composite foreign key referencing two columns. (https://docs.sqlalchemy.org/en/20/core/constraints.html)
+"""

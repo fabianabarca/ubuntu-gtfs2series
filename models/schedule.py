@@ -1,6 +1,15 @@
 from sqlalchemy.orm import declarative_base, relationship
 from sqlalchemy import Column, PrimaryKeyConstraint, ForeignKeyConstraint
-from sqlalchemy.types import Integer, Float, Date, Time, DateTime, Interval, String, Text
+from sqlalchemy.types import (
+    Integer,
+    Float,
+    Date,
+    Time,
+    DateTime,
+    Interval,
+    String,
+    Text,
+)
 from geoalchemy2 import Geometry
 from geoalchemy2.elements import WKTElement
 
@@ -14,22 +23,30 @@ class Feed(Base):
     """
 
     __tablename__ = "feeds"
-    feed_id = Column(String(127), primary_key=True)
-    feed_tag = Column(String(127))
-    feed_last_modified = Column(DateTime)
-    feed_transit_system = Column(String(127))
 
-    agency = relationship("Agency", backref="feed")
-    stops = relationship("Stop", backref="feed")
-    routes = relationship("Route", backref="feed")
-    trips = relationship("Trip", backref="feed")
-    stop_times = relationship("StopTime", backref="feed")
-    calendar = relationship("Calendar", backref="feed")
-    shapes = relationship("Shape", backref="feed")
-    geoshapes = relationship("GeoShape", backref="feed")
-    frequencies = relationship("Frequency", backref="feed")
-    feed_info = relationship("FeedInfo", backref="feed")
-    calendar_dates = relationship("CalendarDate", backref="feed")
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
+
+    # Columns
+
+    feed_tag = Column(String(255))
+    feed_last_modified = Column(DateTime)
+    feed_transit_system = Column(String(255))
+
+    # Relationships and foreign keys
+
+    agency = relationship("Agency", viewonly=True)
+    stops = relationship("Stop", viewonly=True)
+    routes = relationship("Route", viewonly=True)
+    trips = relationship("Trip", viewonly=True)
+    stop_times = relationship("StopTime", viewonly=True)
+    calendar = relationship("Calendar", viewonly=True)
+    shapes = relationship("Shape", viewonly=True)
+    geoshapes = relationship("GeoShape", viewonly=True)
+    frequencies = relationship("Frequency", viewonly=True)
+    feed_info = relationship("FeedInfo", viewonly=True)
+    calendar_dates = relationship("CalendarDate", viewonly=True)
 
 
 class Agency(Base):
@@ -42,10 +59,12 @@ class Agency(Base):
 
     __tablename__ = "agency"
 
-    feed_id = Column(String(127), primary_key=True)
-    agency_id = Column(String(127), primary_key=True)
+    # Primary key columns
 
-    routes = relationship("Route", backref="agency")
+    feed_id = Column(String(255), primary_key=True)
+    agency_id = Column(String(255), primary_key=True)
+
+    # Columns
 
     agency_name = Column(String(255))
     agency_url = Column(String(255))
@@ -54,6 +73,10 @@ class Agency(Base):
     agency_phone = Column(String(255))
     agency_fare_url = Column(String(255))
     agency_email = Column(String(255))
+
+    # Relationships and foreign keys
+
+    routes = relationship("Route", back_populates="agency")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -73,22 +96,30 @@ class Stop(Base):
 
     __tablename__ = "stops"
 
-    feed_id = Column(String(127), primary_key=True)
-    stop_id = Column(String(127), primary_key=True)
+    # Primary key columns
 
-    stop_code = Column(String(127))
+    feed_id = Column(String(255), primary_key=True)
+    stop_id = Column(String(255), primary_key=True)
+
+    # Columns
+
+    stop_code = Column(String(255))
     stop_name = Column(String(255))
     stop_desc = Column(String(511))
     stop_lat = Column(Float)
     stop_lon = Column(Float)
     stop_point = Column(Geometry(geometry_type="POINT", srid=4326))
-    zone_id = Column(String(127))
+    zone_id = Column(String(255))
     stop_url = Column(String(255))
     location_type = Column(Integer)
-    parent_station = Column(String(127))
-    stop_timezone = Column(String(127))
+    parent_station = Column(String(255))
+    stop_timezone = Column(String(255))
     wheelchair_boarding = Column(Integer)
-    platform_code = Column(String(127))
+    platform_code = Column(String(255))
+
+    # Relationships and foreign keys
+
+    stop_times = relationship("StopTime", back_populates="stop")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -114,13 +145,15 @@ class Route(Base):
 
     __tablename__ = "routes"
 
-    feed_id = Column(String(127), primary_key=True)
-    route_id = Column(String(127), primary_key=True)
+    # Primary key columns
 
-    trips = relationship("Trip", backref="route")
+    feed_id = Column(String(255), primary_key=True)
+    route_id = Column(String(255), primary_key=True)
 
-    agency_id = Column(String(127))
-    route_short_name = Column(String(127))
+    # Columns
+
+    agency_id = Column(String(255))
+    route_short_name = Column(String(255))
     route_long_name = Column(String(255))
     route_desc = Column(Text)
     route_type = Column(Integer)
@@ -130,7 +163,12 @@ class Route(Base):
     route_sort_order = Column(Integer)
     continuous_pickup = Column(Integer)
     continuous_drop_off = Column(Integer)
-    network_id = Column(String(127))
+    network_id = Column(String(255))
+
+    # Relationships and foreign keys
+
+    agency = relationship("Agency", back_populates="routes")
+    trips = relationship("Trip", back_populates="route")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -154,19 +192,31 @@ class Trip(Base):
 
     __tablename__ = "trips"
 
-    feed_id = Column(String(127), primary_key=True)
-    trip_id = Column(String(127), primary_key=True)
+    # Primary key columns
 
-    route_id = Column(String(127))  # Foreign key
-    service_id = Column(String(127))  # Foreign key
-    geoshape_id = Column(String(127))  # Foreign key
+    feed_id = Column(String(255), primary_key=True)
+    trip_id = Column(String(255), primary_key=True)
+
+    # Columns
+
+    route_id = Column(String(255))  # Foreign key
+    service_id = Column(String(255))  # Foreign key
+    geoshape_id = Column(String(255))  # Foreign key
     trip_headsign = Column(String(255))
-    trip_short_name = Column(String(127))
+    trip_short_name = Column(String(255))
     direction_id = Column(Integer)
-    block_id = Column(String(127))
-    shape_id = Column(String(127))  # Foreign key (not yet implemented)
+    block_id = Column(String(255))
+    shape_id = Column(String(255))  # Foreign key (not yet implemented)
     wheelchair_accessible = Column(Integer)
     bikes_allowed = Column(Integer)
+
+    # Relationships and foreign keys
+
+    route = relationship("Route", back_populates="trips")
+    calendar = relationship("Calendar", back_populates="trips")
+    geoshape = relationship("GeoShape", back_populates="trips")
+    stop_times = relationship("StopTime", back_populates="trip")
+    frequencies = relationship("Frequency", back_populates="trip")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -198,11 +248,15 @@ class StopTime(Base):
 
     __tablename__ = "stop_times"
 
-    feed_id = Column(String(127), primary_key=True)
-    trip_id = Column(String(127), primary_key=True)
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
+    trip_id = Column(String(255), primary_key=True)
     stop_sequence = Column(Integer, primary_key=True)
 
-    stop_id = Column(String(127))
+    # Columns
+
+    stop_id = Column(String(255))
     arrival_time = Column(Interval)
     departure_time = Column(Interval)
     stop_headsign = Column(String(255))
@@ -212,6 +266,11 @@ class StopTime(Base):
     continuous_drop_off = Column(Integer)
     shape_dist_traveled = Column(Float)
     timepoint = Column(Integer)
+
+    # Relationships and foreign keys
+
+    trip = relationship("Trip", back_populates="stop_times")
+    stop = relationship("Stop", back_populates="stop_times")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -239,8 +298,12 @@ class Calendar(Base):
 
     __tablename__ = "calendar"
 
-    feed_id = Column(String(127), primary_key=True)
-    service_id = Column(String(127), primary_key=True)
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
+    service_id = Column(String(255), primary_key=True)
+
+    # Columns
 
     monday = Column(Integer)
     tuesday = Column(Integer)
@@ -251,6 +314,11 @@ class Calendar(Base):
     sunday = Column(Integer)
     start_date = Column(Date)
     end_date = Column(Date)
+
+    # Relationships and foreign keys
+
+    trips = relationship("Trip", back_populates="calendar")
+    calendar_dates = relationship("CalendarDate", back_populates="calendar")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -270,11 +338,19 @@ class CalendarDate(Base):
 
     __tablename__ = "calendar_dates"
 
-    feed_id = Column(String(127), primary_key=True)
-    service_id = Column(String(127), primary_key=True)
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
+    service_id = Column(String(255), primary_key=True)
     date = Column(Date, primary_key=True)
 
+    # Columns
+
     exception_type = Column(Integer)
+
+    # Relationships and foreign keys
+
+    calendar = relationship("Calendar", back_populates="calendar_dates")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -298,13 +374,19 @@ class Shape(Base):
 
     __tablename__ = "shapes"
 
-    feed_id = Column(String(127), primary_key=True)
-    shape_id = Column(String(127), primary_key=True)
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
+    shape_id = Column(String(255), primary_key=True)
     shape_pt_sequence = Column(Integer, primary_key=True)
+
+    # Columns
 
     shape_pt_lat = Column(Float)
     shape_pt_lon = Column(Float)
     shape_dist_traveled = Column(Float)
+
+    # Relationships and foreign keys
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -322,10 +404,18 @@ class GeoShape(Base):
 
     __tablename__ = "geoshapes"
 
-    feed_id = Column(String(127), primary_key=True)
-    geoshape_id = Column(String(127), primary_key=True)
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
+    geoshape_id = Column(String(255), primary_key=True)
+
+    # Columns
 
     geoshape = Column(Geometry(geometry_type="LINESTRING", srid=4326))
+
+    # Relationships and foreign keys
+
+    trips = relationship("Trip", back_populates="geoshape")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -345,13 +435,21 @@ class Frequency(Base):
 
     __tablename__ = "frequencies"
 
-    feed_id = Column(String(127), primary_key=True)
-    trip_id = Column(String(127), primary_key=True)
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
+    trip_id = Column(String(255), primary_key=True)
     start_time = Column(Time, primary_key=True)
+
+    # Columns
 
     end_time = Column(Time)
     headway_secs = Column(Integer)
     exact_times = Column(Integer)
+
+    # Relationships and foreign keys
+
+    trip = relationship("Trip", back_populates="frequencies")
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -375,8 +473,12 @@ class FeedInfo(Base):
 
     __tablename__ = "feed_info"
 
-    feed_id = Column(String(127), primary_key=True)
+    # Primary key columns
+
+    feed_id = Column(String(255), primary_key=True)
     id = Column(Integer, primary_key=True, autoincrement=True)
+
+    # Columns
 
     feed_publisher_name = Column(String(255))
     feed_publisher_url = Column(String(255))
@@ -384,9 +486,11 @@ class FeedInfo(Base):
     default_lang = Column(String(31))
     feed_start_date = Column(Date)
     feed_end_date = Column(Date)
-    feed_version = Column(String(127))
+    feed_version = Column(String(255))
     feed_contact_email = Column(String(255))
     feed_contact_url = Column(String(255))
+
+    # Realtionships and foreign keys
 
     __table_args__ = (
         ForeignKeyConstraint(
@@ -394,3 +498,10 @@ class FeedInfo(Base):
             ["feeds.feed_id"],
         ),
     )
+
+
+"""
+Notes:
+
+- It's important to note that the ForeignKeyConstraint is the only way to define a composite foreign key. While we could also have placed individual ForeignKey objects on individual columns, SQLAlchemy would not be aware that these two values should be paired together - it would be two individual foreign key constraints instead of a single composite foreign key referencing two columns. (https://docs.sqlalchemy.org/en/20/core/constraints.html)
+"""
